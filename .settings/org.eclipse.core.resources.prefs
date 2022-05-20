@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java/dao/HistoryDAO.java=UTF-8
+encoding//src/main/java/dao/ShareDAO.java=UTF-8
+encoding//src/main/java/domain/ActivityUser.java=UTF-8
+encoding//src/main/java/servlet/api/APICommentServlet.java=UTF-8
+encoding//src/main/java/servlet/api/APIMail.java=UTF-8
+encoding//src/main/java/servlet/api/APIReport.java=UTF-8
+encoding//src/main/java/servlet/api/ActivityAPI.java=UTF-8
+encoding//src/main/java/site/servlet/ChangePassServlet.java=UTF-8
+encoding//src/main/java/site/servlet/ResetPasswordServlet.java=UTF-8
